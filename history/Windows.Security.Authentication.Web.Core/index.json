@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Windows.Security.Authentication.Web.Core.dll",
+  "latest": "1620345627-1F1ED8028B3E9C6CF8D04CBA0B0C3BA1-1",
+  "builds": [
+    {
+      "key": "1620345627-1F1ED8028B3E9C6CF8D04CBA0B0C3BA1-1",
+      "timestamp": "1620345627",
+      "pdb_guid": "1F1ED8028B3E9C6CF8D04CBA0B0C3BA1",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1620345627-1F1ED8028B3E9C6CF8D04CBA0B0C3BA1-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}

@@ -1,0 +1,2592 @@
+//! Opaque handles for recovered C++ classes.
+#![allow(non_camel_case_types)]
+
+#[repr(C)]
+pub struct ARI_ProcessToken_SysAppId { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IPropertyBag2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IStream { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICBitmapClipper { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICBitmapDecoder { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICBitmapEncoder { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICBitmapFrameDecode { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICBitmapFrameEncode { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICBitmapScaler { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICBitmapSource { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICFormatConverter { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtrBase_struct_IWICImagingFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ATL_CComPtr_struct_IWICBitmapSource { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AccountSystemOnlyInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AggregationProviderHandler { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AgileGitPtr { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_IUnknown__struct_Windows__Internal__INilDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncAction__struct_Windows__Foundation__IAsyncActionCompletedHandler { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_bool___struct_Windows__Foundation__IAsyncOperationCompletedHandler_bool { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResult_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Cryptography__Core__CryptographicKey_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Cryptography__Core__CryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView________struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount________struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct AutoStubBias_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IBuffer_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct BiasHelper_struct_IUnknown__struct_Windows__Internal__INilDelegate__1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct BiasHelper_struct_Windows__Foundation__IAsyncAction__struct_Windows__Foundation__IAsyncActionCompletedHandler__1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct BiasHelper_struct_Windows__Foundation__IAsyncOperation_bool___struct_Windows__Foundation__IAsyncOperationCompletedHandler_bool___1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct BiasHelper_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResult_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResult_____1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct BiasHelper_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount________struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount________1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct BiasHelper_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IBuffer_____struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IBuffer_____1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct CMarshaledInterface { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct CTBEvent { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct CTCoAllocPolicy { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct CallerIdentity { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct FileAccessLock { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct GlobalCacheExpirationRegistry { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct ManageCookies { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics4__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics5__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop_______struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics2__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics3__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet___class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResponseFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationTransferTokenRequestFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebProviderErrorFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenResponseFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Microsoft__WRL__Implements_struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics2__struct_Windows__Security__Authentication__Web__Provider__IWebAccountScopeManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountMapManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics3__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics4___class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Windows__Internal__Security__Authentication__Web__IWebAuthenticationCoreInternalManagerStatics__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Windows__Security__Authentication__Web__Provider__IWebAccountClientViewFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ActivationFactory_struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenResponseFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_AgileActivationFactory_struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics4__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics5__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop_____struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics2__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics3__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_AgileEventSource_struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____class_Windows__Security__Authentication__Web__Core__WebAccountEventArgs_____struct_Microsoft__WRL__InvokeModeOptions__2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_AgileRef { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ClassFactory_class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ClassFactory_struct_IBackgroundEventDetailsFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_CMarshaledInterface__CMarshalStream { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Microsoft__WRL__Details__EventTargetArray { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__AgileHashMap_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultHash_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__AgileVector_class_Windows__Security__Authentication__Web__Core__WebTokenResponse____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_class_Windows__Security__Authentication__Web__Core__WebTokenResponse_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_class_Windows__Security__Authentication__Web__Core__WebTokenResponse_____0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__AgileVector_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView_____0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__AgileVector_class_Windows__Security__Authentication__Web__Provider__WebProviderTokenResponse____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_class_Windows__Security__Authentication__Web__Provider__WebProviderTokenResponse_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_class_Windows__Security__Authentication__Web__Provider__WebProviderTokenResponse_____0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__AgileVector_class_Windows__Security__Credentials__WebAccount____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_class_Windows__Security__Credentials__WebAccount_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_class_Windows__Security__Credentials__WebAccount_____0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__AgileVector_class_Windows__Web__Http__HttpCookie____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_class_Windows__Web__Http__HttpCookie_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_class_Windows__Web__Http__HttpCookie_____0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__AgileVector_struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__HashMap_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultHash_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0_____Chunk { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__SimpleKeyValuePair_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Foundation__Collections__Internal__Vector_class_Windows__Web__Http__HttpCookie____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_class_Windows__Web__Http__HttpCookie_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_class_Windows__Web__Http__HttpCookie_____struct_Windows__Foundation__Collections__Internal__DefaultVectorOptions_class_Windows__Web__Http__HttpCookie { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Internal__Security__Authentication__Web__CHttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Internal__Security__Authentication__Web__CHttpCookieRequestResultOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebAccountEventArgs { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebAccountMonitor { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationTransferTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebProviderError { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Core__CWebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Provider__CWebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderSignOutAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderTriggerDetails { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncActionCompletedHandler__struct_Windows__Foundation__IAsyncAction__struct_Windows__Foundation__IAsyncAction____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult______struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult______struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult______struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccountProvider_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider______struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccount_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount______struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Storage__ApplicationData_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Storage__ApplicationData______struct_Windows__Foundation__IAsyncOperation_class_Windows__Storage__ApplicationData_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType_____struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType______struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_unsigned_int___struct_Windows__Foundation__IAsyncOperation_unsigned_int____struct_Windows__Foundation__IAsyncOperation_unsigned_int_____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress___struct_Windows__Foundation__IAsyncOperationWithProgress_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress____struct_Windows__Foundation__IAsyncOperationWithProgress_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress_____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_unsigned_int__unsigned_int___struct_Windows__Foundation__IAsyncOperationWithProgress_unsigned_int__unsigned_int____struct_Windows__Foundation__IAsyncOperationWithProgress_unsigned_int__unsigned_int_____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IAgileReference { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IApplicationDesignModeSettingsPriv { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IAsyncInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_ICallingProcessInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_ICoreWindowInterop { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IGlobalInterfaceTable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IGlobalOptions { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IProxyServerIdentity { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IRestrictedErrorInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IRpcOptions { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IStream { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IUnknown { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IWICBitmapFrameDecode { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IWICBitmapSource { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IWICImagingFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_IXProcByValueMarshalHelper { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__ApplicationModel__Contracts__Internal__IContractBrokerBaseTrustAccessibleServer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__ApplicationModel__Core__ICoreApplication { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__ApplicationModel__Core__ICoreApplicationPrivate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__ApplicationModel__Core__ICoreApplicationView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Data__Json__IJsonArray { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Data__Json__IJsonObject { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Data__Json__IJsonObjectStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Data__Json__IJsonObjectWithDefaultValues { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Data__Json__IJsonValue { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Data__Json__IJsonValueStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__Detail__IMarshalingBehaviorControl { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__Detail__IVectorStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterable_class_Windows__Security__Authentication__Web__Core__WebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterable_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_Windows__Data__Json__IJsonValue { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterator_class_Windows__Security__Authentication__Web__Core__WebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterator_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterator_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterator_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IIterator_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_Windows__Data__Json__IJsonValue { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_Windows__Data__Json__IJsonValue { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IMapView_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IMap_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IMap_struct_HSTRING_____struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Core__WebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Web__Http__HttpCookie { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVectorView_struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVector_class_Windows__Security__Authentication__Web__Core__WebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVector_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVector_struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Collections__IVector_struct_Windows__Data__Json__IJsonValue { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncAction { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncActionCompletedHandler { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_bool { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Cryptography__Core__CryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationWithProgress_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperationWithProgress_unsigned_int__unsigned_int { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_bool { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Cryptography__Core__CryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_class_Windows__Storage__ApplicationData { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IAsyncOperation_unsigned_int { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IPropertyValueStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IReference_struct_Windows__Foundation__DateTime { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____class_Windows__Security__Authentication__Web__Core__WebAccountEventArgs { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IUriRuntimeClass { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IUriRuntimeClassFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__IWwwFormUrlDecoderRuntimeClass { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Private__IComponentSite { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Private__IComponentSiteFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Foundation__Private__ITokenBrokerComponentUILauncher { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__INilDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IGetDefaultSignInAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IHttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics10 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics13 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics3 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics4 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics5 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics6 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics7 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics8 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerInternalStatics9 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerProviderInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerSystemExtension { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__ITokenBrokerSystemExtension6 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWamObjectStore { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWamObjectStoreManagerStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWamProviderRegistrationInformation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWamProviderRegistrationInformation3 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWamProviderRegistrationStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWamProviderUtilitiesStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebAccountMonitorInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebAccountSetter { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebAuthenticationCoreInternalManagerStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestStatusSetter { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountInternalFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountInternalFactory2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountProviderInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountProviderInternalFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountProviderInternalFactory2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountProviderSystemInformation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountProviderSystemInformation2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountProviderUserContext { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountProviderWithMrtResourceIcon { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountSystemInformation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__Security__Credentials__IWebAccountSystemInformation2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__StateRepository__IPackage { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Internal__StateRepository__IPackageStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Management__Deployment__Internal__IPackageManagerInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationTransferTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebProviderError { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebProviderErrorFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Core__IWebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenObjects { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest3 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Credentials__IWebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Credentials__IWebAccount2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Credentials__IWebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Credentials__IWebAccountProvider2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Credentials__IWebAccountProvider3 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Credentials__IWebAccountProvider4 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Cryptography__Core__IAsymmetricKeyAlgorithmProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Cryptography__Core__IAsymmetricKeyAlgorithmProviderStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Security__Cryptography__Core__ICryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__IApplicationData { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__IApplicationDataStatics2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IBufferByteAccess { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IDataReader { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IDataReaderFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IDataReaderStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IDataWriter { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IInputStream { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IOutputStream { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IPropertySetSerializer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IRandomAccessStream { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IRandomAccessStreamReference { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__System__IUser { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__System__Internal__ISignInStateManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__System__Internal__IUserManagerStatics { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__UI__Core__ICoreDispatcher { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__UI__Core__ICoreWindow { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__UI__Core__ICoreWindowStatic { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__UI__Core__IDispatchedHandler { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Web__Http__IHttpCookie { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ComPtr_struct_Windows__Web__Http__IHttpCookieFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_DelegateTraits__1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ComPtrRef_class_Microsoft_WRL_AgileRef__operator_class_Microsoft_WRL { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_DefaultModule_1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_DelegateArgTraits_long____cdecl_Windows_Foundation_ITypedEventHandler_impl_struct_Windows_Foundation_Internal_AggregateType_class_Windows_Security_Authentication_Web_Core_WebAccountMonitor____struct_Windows_Security_Authentication_Web_Core_IWebAccountMonitor_____struct_IInspectable_______struct_IWebAccountMonitor_Security_Authentication_Web_Core_IWebAccountMonitor____struct_IInspectable_____DelegateInvokeHelper_struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____struct_IInspectable_____class_Microsoft__WRL__FtmBase___class__lambda_0c4aa2185fb615c8977ee48eff7f12d0____1__struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor____struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_DelegateArgTraits_long____cdecl_Windows_Foundation_ITypedEventHandler_impl_struct_Windows_Foundation_Internal_AggregateType_class_Windows_Security_Authentication_Web_Core_WebAccountMonitor____struct_Windows_Security_Authentication_Web_Core_IWebAccountMonitor_____struct_Windows_Foundation_Internal_AggregateType_class_Windows_Security_Authentication_Web_Core_WebAccountEventArgs____struct_Windows_Security_Authentication_Web_Core_IWebAccountEventArgs_________struct_IWebAccountMonitor_Security_Authentication_Web_Core_IWebAccountMonitor____struct_IWebAccountMonitor_IWebAccountEventArgs_Security_Authentication_Web_IWebAccountEventArgs_____DelegateInvokeHelper_struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____class_Windows__Security__Authentication__Web__Core__WebAccountEventArgs_____class_Microsoft__WRL__FtmBase___class__lambda_4ad9a4328aec7f183aaea92ae5d580ba____1__struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor____struct_Windows__Security__Authentication__Web__Core__IWebAccountEventArgs { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_EventTargetArray { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics4__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics5__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop_______struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics2__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics3__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet___class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResponseFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationTransferTokenRequestFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenResponseFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics2__struct_Windows__Security__Authentication__Web__Provider__IWebAccountScopeManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountMapManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics3__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics4___class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Windows__Internal__Security__Authentication__Web__IWebAuthenticationCoreInternalManagerStatics__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Windows__Security__Authentication__Web__Provider__IWebAccountClientViewFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___0__struct_IActivationFactory__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenResponseFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___1__struct_Microsoft__WRL__Details__ImplementsMarker_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics4__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics5__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop_________struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics2__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics3__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___1__struct_Microsoft__WRL__Details__ImplementsMarker_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet_____class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___1__struct_Microsoft__WRL__Details__ImplementsMarker_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebProviderErrorFactory_____struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___1__struct_Microsoft__WRL__Details__ImplementsMarker_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory_____struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___1__struct_Microsoft__WRL__Details__ImplementsMarker_struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenResponseFactory_____struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___1__struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_13___1__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics2__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics3__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___0__struct_Windows__Foundation__Collections__IIterator_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________struct_IWeakReferenceSource__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___0__struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING______struct_IWeakReferenceSource__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___0__struct_Windows__Security__Authentication__Web__Core__IWebAccountEventArgs__struct_IWeakReferenceSource__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountEventArgs2___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_IWeakReferenceSource__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_IWeakReferenceSource__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_IWeakReferenceSource__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountEventArgs2___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_IWeakReferenceSource__struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase___struct_Windows__Security__Authentication__Web__Core__IWebProviderErrorFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase___struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase___struct_Windows__Security__Authentication__Web__Core__IWebTokenResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics2__struct_Windows__Security__Authentication__Web__Provider__IWebAccountScopeManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountMapManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics3__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics4 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Windows__Security__Authentication__Web__Provider__IWebAccountMapManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics3__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics4 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenObjects2__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_1___1__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenOperation__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_2___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___0__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase___struct_IWeakReferenceSource__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderDeleteAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___0__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase___struct_IWeakReferenceSource__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderRetrieveCookiesOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___0__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase___struct_IWeakReferenceSource__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSignOutAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___0__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase___struct_IWeakReferenceSource__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderRequestTokenBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSilentReportOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncAction__struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_bool___struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Cryptography__Core__CryptographicKey_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView________struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount________struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IBuffer_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_IWeakReferenceSource__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest2__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest3__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal2___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IXudkWebTokenRequestInternal___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_ITokenBrokerOperationContext___struct_Microsoft__WRL__CloakedIid_struct_ITokenBrokerOperationContext2___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountMonitorInternal___struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor__struct_Microsoft__WRL__CloakedIid_struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountSetter___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal2___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IXudkWebTokenRequestInternal___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal2___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal2___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestStatusSetter___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal2___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Microsoft__WRL__FtmBase___struct_IWeakReferenceSource__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountMonitorInternal___struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor__struct_Microsoft__WRL__CloakedIid_struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Internal__Security__CXProcByValueMarshal___struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportBase___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase___struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderDeleteAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase___struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderRetrieveCookiesOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase___struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSignOutAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase___struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSilentReportOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderRequestTokenBase___class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSilentReportOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncAction__struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_bool___struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Cryptography__Core__CryptographicKey_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView________struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount________struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IBuffer_____struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Internal__IAsyncOperationLocal__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncDeferral___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IComPoolTask___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__IAsyncFireCompletion { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics4__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics5__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderBaseReportOperation__struct_Microsoft__WRL__CloakedIid_struct_ITokenBrokerOperationContext___struct_Microsoft__WRL__CloakedIid_struct_ITokenBrokerOperationContext2___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderOperation__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest3__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_6___0__struct_IClassFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_6___0__struct_IClassFactory__struct_IBackgroundEventDetailsFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__Details__EventTargetArray { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResponse__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResult__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationTransferTokenRequest__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebProviderError__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebTokenRequestResult__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebTokenRequest__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebTokenResponse__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenRequest__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Microsoft__WRL__SimpleClassFactory_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenResponse__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Foundation__Collections__Internal__NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Foundation__Collections__Internal__NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0_____ChunkElementIterator { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Foundation__Collections__Internal__NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0_____ChunkView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Foundation__Collections__Internal__NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0_____SplitIterator { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Internal__ComTaskPool__CTaskWrapper_class__lambda_c2fd7731c5ae0d37e65ea73be67c0f1b { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Internal__Security__Authentication__Web__CHttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Internal__Security__Authentication__Web__CHttpCookieRequestResultOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Internal__Security__Authentication__Web__CWebAuthenticationCoreInternalManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAccountEventArgs { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAccountMonitor { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationCoreManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationTransferTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationTransferTokenRequestFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebProviderError { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebProviderErrorFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebTokenRequestFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Core__CWebTokenResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountClientViewFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderDeleteAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderGetTokenSilentOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderRetrieveCookiesOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderSignOutAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderTriggerDetails { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderTriggerDetailsFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncActionCompletedHandler__struct_Windows__Foundation__IAsyncAction__struct_Windows__Foundation__IAsyncAction____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult______struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult______struct_Windows__Foundation__IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult______struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccountProvider_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider______struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccount_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount______struct_Windows__Foundation__IAsyncOperation_class_Windows__Security__Credentials__WebAccount_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Storage__ApplicationData_____struct_Windows__Foundation__IAsyncOperation_class_Windows__Storage__ApplicationData______struct_Windows__Foundation__IAsyncOperation_class_Windows__Storage__ApplicationData_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType_____struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType______struct_Windows__Foundation__IAsyncOperation_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType_______enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationCompletedHandler_unsigned_int___struct_Windows__Foundation__IAsyncOperation_unsigned_int____struct_Windows__Foundation__IAsyncOperation_unsigned_int_____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress___struct_Windows__Foundation__IAsyncOperationWithProgress_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress____struct_Windows__Foundation__IAsyncOperationWithProgress_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress_____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_class__long___cdecl_WaitForCompletion_struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_unsigned_int__unsigned_int___struct_Windows__Foundation__IAsyncOperationWithProgress_unsigned_int__unsigned_int____struct_Windows__Foundation__IAsyncOperationWithProgress_unsigned_int__unsigned_int_____enum_tagCOWAIT_FLAGS__void_______2___FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_struct_Microsoft__WRL__Details__DelegateArgTraits_long____cdecl_Windows__Foundation__ITypedEventHandler_impl_struct_Windows__Foundation__Internal__AggregateType_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor_____struct_IInspectable________struct_IWebAccountMonitor__Security__Authentication__Web__Core__IWebAccountMonitor____struct_IInspectable______DelegateInvokeHelper_struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____struct_IInspectable_____class_Microsoft__WRL__FtmBase___class__lambda_0c4aa2185fb615c8977ee48eff7f12d0____1__struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor____struct_IInspectable { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_struct_Windows__Security__Authentication__Web__Core__FindAllAccountsResultFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_struct_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResultFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_MakeAllocator_struct_Windows__Security__Authentication__Web__Core__WebTokenRequestResultFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_ModuleBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassBaseT_1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassBaseT_13 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassBaseT_2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassBaseT_3 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassBaseT_6 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics4__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics5__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop_______struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics2__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics3__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenResponseFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0__struct_IActivationFactory__struct_Microsoft__WRL__Implements_struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics2__struct_Windows__Security__Authentication__Web__Provider__IWebAccountScopeManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountMapManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics3__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics4___class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0__struct_IActivationFactory__struct_Windows__Internal__Security__Authentication__Web__IWebAuthenticationCoreInternalManagerStatics__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0__struct_IActivationFactory__struct_Windows__Security__Authentication__Web__Provider__IWebAccountClientViewFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0__struct_IActivationFactory__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenResponseFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Foundation__Collections__IIterator_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING______class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Foundation__Collections__IMapView_struct_HSTRING_____struct_HSTRING______struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Foundation__Collections__IMap_struct_HSTRING_____struct_HSTRING______struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Internal__Security__Authentication__Web__IHttpCookieRequestResult__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebAccountEventArgs__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountEventArgs2___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Security__Authentication__Web__Provider__IWebAccountClientView__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_1___1__1__0__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenObjects__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenObjects2__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_IUnknown { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_IWeakReference { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____class_Windows__Security__Authentication__Web__Core__WebAccountEventArgs_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____struct_IInspectable_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__UI__Core__IDispatchedHandler__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncActionCompletedHandler__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccountProvider_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccount_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Storage__ApplicationData_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationCompletedHandler_unsigned_int___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_unsigned_int__unsigned_int___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_2___1__0__0__struct_Windows__Internal__IComPoolTask { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__class_Microsoft__WRL__FtmBase__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountMonitorInternal___struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor__struct_Microsoft__WRL__CloakedIid_struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderDeleteAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderRetrieveCookiesOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSignOutAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderRequestTokenBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSilentReportOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResponse__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResult__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationTransferTokenRequest__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebProviderError__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestStatusSetter___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal2___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest2__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest3__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal2___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IXudkWebTokenRequestInternal___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Core__IWebTokenResponse__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountSetter___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest2__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest3__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_3___1__1__0__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenResponse__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_6___0__0__0__struct_IClassFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClassImpl_struct_Microsoft__WRL__RuntimeClassFlags_6___0__0__0__struct_IClassFactory__struct_IBackgroundEventDetailsFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics4__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics5__struct_Windows__Internal__Security__Authentication__Web__IAuthenticationHostingCoreManagerStatics__struct_Microsoft__WRL__CloakedIid_struct_IWebAuthenticationCoreManagerInterop_______struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics2__struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationCoreManagerStatics3__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IActivationFactory__struct_Microsoft__WRL__Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenResponseFactory___struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IActivationFactory__struct_Microsoft__WRL__Implements_struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics2__struct_Windows__Security__Authentication__Web__Provider__IWebAccountScopeManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountMapManagerStatics__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics3__struct_Windows__Security__Authentication__Web__Provider__IWebAccountManagerStatics4___class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IActivationFactory__struct_Windows__Internal__Security__Authentication__Web__IWebAuthenticationCoreInternalManagerStatics__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IActivationFactory__struct_Windows__Security__Authentication__Web__Provider__IWebAccountClientViewFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IActivationFactory__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenResponseFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_13___0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IClassFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_6___0__0__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_RuntimeClass_struct_Microsoft__WRL__Details__InterfaceListHelper_struct_IClassFactory__struct_IBackgroundEventDetailsFactory__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil__class_Microsoft__WRL__Details__Nil___struct_Microsoft__WRL__RuntimeClassFlags_6___0__0__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_Selector_class_Windows__Internal__Security__CXProcByValueMarshal__struct_Microsoft__WRL__Details__ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_Selector_class_Windows__Internal__Security__CXProcByValueMarshal__struct_Microsoft__WRL__Details__ImplementsHelper_struct_Microsoft__WRL__RuntimeClassFlags_3___1__struct_Microsoft__WRL__Details__ImplementsMarker_class_Windows__Internal__Security__CXProcByValueMarshal___struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_StaticStorage_class_Microsoft__WRL__Details__DefaultModule_1___0__int { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Details_WeakReferenceImpl { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_ErrorPropagationPolicyTraits__1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_EventSource_struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____class_Windows__Security__Authentication__Web__Core__WebAccountEventArgs_____struct_Microsoft__WRL__InvokeModeOptions__2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_EventSource_struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____struct_IInspectable_____struct_Microsoft__WRL__InvokeModeOptions__2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Foundation__Marshaling__Internal__IValueUnmarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebProviderErrorFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_class_Microsoft__WRL__FtmBase__struct_Windows__Security__Authentication__Web__Core__IWebTokenResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportBase__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderBaseReportOperation__struct_Microsoft__WRL__CloakedIid_struct_ITokenBrokerOperationContext___struct_Microsoft__WRL__CloakedIid_struct_ITokenBrokerOperationContext2___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderOperation__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Implements_struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenOperation__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_InvokeTraits__2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Module_1__class_Microsoft__WRL__Details__DefaultModule_1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_IUnknown { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_IWeakReference { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____class_Windows__Security__Authentication__Web__Core__WebAccountEventArgs_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__ITypedEventHandler_class_Windows__Security__Authentication__Web__Core__WebAccountMonitor____struct_IInspectable_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Microsoft__WRL__Implements_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__UI__Core__IDispatchedHandler__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncActionCompletedHandler__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__GetDefaultSignInAccountResult_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccountProvider_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccount_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Storage__ApplicationData_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IRandomAccessStreamWithContentType_____class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationCompletedHandler_unsigned_int___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_class_Windows__Management__Deployment__DeploymentResult____struct_Windows__Management__Deployment__DeploymentProgress___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Foundation__IAsyncOperationWithProgressCompletedHandler_unsigned_int__unsigned_int___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_2___struct_Windows__Internal__IComPoolTask { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___class_Microsoft__WRL__FtmBase__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountMonitorInternal___struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor__struct_Microsoft__WRL__CloakedIid_struct_Windows__Security__Authentication__Web__Core__IWebAccountMonitor2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderDeleteAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderRetrieveCookiesOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSignOutAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderRequestTokenBase__class_Windows__Security__Authentication__Web__Provider__CWebAccountProviderOperationReportSilentBase__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderSilentReportOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResponse__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResult__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationTransferTokenRequest__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebProviderError__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestStatusSetter___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestResultInternal2___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest2__struct_Windows__Security__Authentication__Web__Core__IWebTokenRequest3__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebTokenRequestInternal2___struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IXudkWebTokenRequestInternal___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Core__IWebTokenResponse__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountSetter___struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal__struct_Windows__Foundation__Marshaling__Internal__IValueMarshalByPropertySet { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest2__struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenRequest3__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Microsoft__WRL__RuntimeClassFlags_3___struct_Windows__Security__Authentication__Web__Provider__IWebProviderTokenResponse__struct_IInspectable__struct_Microsoft__WRL__CloakedIid_struct_IXProcByValueMarshalHelper___class_Windows__Internal__Security__CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Foundation__Collections__IIterator_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING______class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Foundation__Collections__IMapView_struct_HSTRING_____struct_HSTRING______struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Foundation__Collections__IMap_struct_HSTRING_____struct_HSTRING______struct_Windows__Foundation__Collections__IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING_________class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Internal__Security__Authentication__Web__IHttpCookieRequestResult__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Security__Authentication__Web__Core__IWebAccountEventArgs__struct_Microsoft__WRL__CloakedIid_struct_Windows__Internal__Security__Authentication__Web__IWebAccountEventArgs2___class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Security__Authentication__Web__Provider__IWebAccountClientView__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_RuntimeClass_struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenObjects__struct_Windows__Security__Authentication__Web__Provider__IWebAccountProviderTokenObjects2__struct_IInspectable__class_Microsoft__WRL__FtmBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResponse__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationAddAccountResult__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebAuthenticationTransferTokenRequest__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebProviderError__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebTokenRequestResult__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebTokenRequest__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Core__CWebTokenResponse__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenRequest__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_SimpleClassFactory_class_Windows__Security__Authentication__Web__Provider__CWebProviderTokenResponse__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_WeakRef { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Wrappers_Details_SyncLockExclusive { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Wrappers_Details_SyncLockShared { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Wrappers_HString { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Wrappers_HStringReference { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Microsoft_WRL_Wrappers_SRWLock { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct PerAppAccountData { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct RoVariant { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct RoVariant_Accessor { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct RoVariant_OutRef { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct RpcOptionsHelper { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct UserAwareCallerIdentity { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_CWebAuthenticationAddAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_CoreFindAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_CoreFindAccountProviderOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_CoreFindAllAccountsOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderAddWebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderClearPerUserFromPerAppAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderClearView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderClearWebAccountPicture { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderDeleteWebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderFindAllWebAccounts { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderGetPerUserFromPerAppAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderGetView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderInvalidateAppCache { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderSetPerAppToPerUserAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderSetScope { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderSetView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderSetWebAccountPicture { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_ProviderUpdateWebAccountProperties { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_WebAuthenticationCoreManagerCreateWebAccountMonitor { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_WebProviderTokenRequestCheckApplicationForCapability { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_WebProviderTokenRequestGetApplicationTokenBindingKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_WebProviderTokenRequestGetApplicationTokenBindingKeyId { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_WebTokenRequestResultInvalidateCache { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WamClientLogProvider_WebTokenRequestResultOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct WebRequestSemaphore { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Detail { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IIterable_impl_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IIterable_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IIterator_impl_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING________1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IIterator_struct_Windows__Foundation__Collections__IKeyValuePair_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IKeyValuePair_impl_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IKeyValuePair_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IMapView_impl_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IMapView_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IMap_impl_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_IMap_struct_HSTRING_____struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_HashMap_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultHash_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultEqualityPredicate_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______0__1__0____Iterator { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_HashMap_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultHash_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultEqualityPredicate_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______0__1__0____View { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_HashMap_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultHash_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultEqualityPredicate_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______0__1__0____Chunk { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultEqualityPredicate_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______0__1__0____ChunkElementIterator { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultEqualityPredicate_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______0__1__0____ChunkView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultEqualityPredicate_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______struct_Windows_Foundation_Collections_Internal_HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows_Foundation_Collections_Internal_DefaultLifetimeTraits_struct_HSTRING______0__1__0____SplitIterator { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_NaiveSplitView_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_SimpleKeyValuePair_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______1 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_Collections_Internal_detail { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_bool { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_class_Windows__Security__Credentials__WebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_class_Windows__Security__Cryptography__Core__CryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Internal__AggregateType_bool__unsigned_char { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Internal__AggregateType_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult____struct_Windows__Internal__Security__Authentication__Web__IHttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Internal__AggregateType_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult____struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Internal__AggregateType_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult____struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Internal__AggregateType_class_Windows__Security__Credentials__WebAccountProvider____struct_Windows__Security__Credentials__IWebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Internal__AggregateType_class_Windows__Security__Credentials__WebAccount____struct_Windows__Security__Credentials__IWebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Foundation__Internal__AggregateType_class_Windows__Security__Cryptography__Core__CryptographicKey____struct_Windows__Security__Cryptography__Core__ICryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_impl_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Foundation_IAsyncOperation_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CBasicResult_unsigned_char__0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Credentials__IWebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Credentials__IWebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Cryptography__Core__ICryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_AsyncCallbackBase_class_Windows__Internal__CNoResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Security__Credentials__IWebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Security__Credentials__IWebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Security__Cryptography__Core__ICryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_CMarshaledInterfaceResult_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_COperationLambdaVar_1__class__lambda_1403157e7ab97b63c6e002a6e76bb1ab___class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Cryptography__Core__ICryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_COperationLambdaVar_1__class__lambda_1e9b50830d16c572fee55de24845ca86___class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_COperationLambdaVar_1__class__lambda_31ecfa77a12307d256bfb016eb774b06___class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Credentials__IWebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_COperationLambdaVar_1__class__lambda_3535a4a044406868765216e4a239d513___class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_COperationLambdaVar_1__class__lambda_61d67db8f544e462467cca7e2ca25af9___class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_COperationLambdaVar_1__class__lambda_af9c0611c209d8108abc0f1f3f243782___class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_COperationLambdaVar_1__class__lambda_dd60928da30e2a904c9e3b2df2af345b___class_Windows__Internal__CMarshaledInterfaceResult_struct_Windows__Security__Credentials__IWebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_ComTaskPool { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_ComTaskPoolHandler { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_ComTaskPool_CTaskWrapper_class__lambda_c2fd7731c5ae0d37e65ea73be67c0f1b { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Details_Git { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtr { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrImpl_class_Windows__Internal__GitPtr { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncActionCompletedHandler { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_bool { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Internal__Security__Authentication__Web__HttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__FindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Authentication__Web__Core__WebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Credentials__WebAccountProvider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_class_Windows__Security__Cryptography__Core__CryptographicKey { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Authentication__Web__Provider__WebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Foundation__Collections__IVectorView_class_Windows__Security__Credentials__WebAccount { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Foundation__IAsyncOperationCompletedHandler_struct_Windows__Storage__Streams__IBuffer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_GitPtrSupportsAgile_struct_Windows__Internal__INilDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_NativeString_class_Windows__Internal__CoTaskMemPolicy_unsigned_short { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_EnvironmentStringCache { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_JsonObjectHeader { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_JsonObjectProperty { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_JsonObjectReader { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_JsonObjectWriter { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_PluginManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_PluginRegistration { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_StoredObjectId { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_StoredObjectInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_StoredObjectInfoWithCache { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_SystemExtension { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_TokenBroker_SystemExtensionRegistration { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_ApplicationCallbackUri { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncImpersonator { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncWamOperationBase_struct_Windows__Security__Authentication__Web__Core__IFindAllAccountsResult__struct_Windows__Security__Authentication__Web__Core__CoreFindAllAccountsParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncWamOperationBase_struct_Windows__Security__Authentication__Web__Core__IWebAuthenticationAddAccountResult__struct_Windows__Security__Authentication__Web__Core__AddAccountWithTransferTokenParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncWamOperationBase_struct_Windows__Security__Authentication__Web__Core__IWebTokenRequestResult__struct_Windows__Security__Authentication__Web__Core__WebTokenRequsetResultOperationParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncWamOperationBase_struct_Windows__Security__Credentials__IWebAccountProvider__struct_Windows__Security__Authentication__Web__Core__CoreFindAccountProviderParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncWamOperationBase_struct_Windows__Security__Credentials__IWebAccount__struct_Windows__Security__Authentication__Web__Core__CoreFindAccountParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncWamOperationBase_struct_Windows__Security__Cryptography__Core__ICryptographicKey__struct_Windows__Internal__Security__Authentication__Web__GetApplicationTokenBindingKeyParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_AsyncWamOperationBase_struct_Windows__Storage__Streams__IBuffer__struct_Windows__Internal__Security__Authentication__Web__GetApplicationTokenBindingKeyParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_CGetApplicationTokenBindingKeyIdOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_CGetApplicationTokenBindingKeyOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_CHttpCookieRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_CHttpCookieRequestResultOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_CWebAuthenticationCoreInternalManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_HttpCookieRequestResultParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_SuspendImpersonationScope { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_ThreadTokenScope { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_Authentication_Web_WatchdogLogger { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_CPropertiesSerializer { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_Security_CXProcByValueMarshal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_String { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Internal_StringReference { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CCoreFindAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CCoreFindAccountProviderOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CCoreFindAllAccountsOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CFindAllAccountsResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAccountEventArgs { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAccountMonitor { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAuthenticationAddAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAuthenticationAddAccountResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAuthenticationAddAccountResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAuthenticationAddAccountResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAuthenticationCoreManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAuthenticationTransferTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebAuthenticationTransferTokenRequestFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebProviderError { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebProviderErrorFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebTokenRequestFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebTokenRequestResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebTokenRequestResultOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CWebTokenResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_CoreFindAccountParams { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_FindAllAccountsResultFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_MatsSilentCallResult { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_TelemetryInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_WebAuthenticationAddAccountResultFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Core_WebTokenRequestResultFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountClientView { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountClientViewFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderDeleteAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderGetTokenSilentOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderOperationBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderOperationReportBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderOperationReportSilentBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderRequestTokenBase { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderRetrieveCookiesOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderSignOutAccountOperation { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderTriggerDetails { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebAccountProviderTriggerDetailsFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebProviderTokenRequest { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebProviderTokenResponse { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct Windows_Security_Authentication_Web_Provider_CWebProviderTokenResponseFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_ComLock { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_FakeStl { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_SecureVersionTag_Tag { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_SecureVersionTag_TagManager { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_SerializingLockPolicy { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_StringEquals { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_XHashMap_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__HashMap_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultHash_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultEqualityPredicate_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______struct_Windows__Foundation__Collections__Internal__HashMapOptions_struct_HSTRING_____struct_HSTRING_____struct_Windows__Foundation__Collections__Internal__DefaultLifetimeTraits_struct_HSTRING______0__1__0_____KeyTraits__class_XWinRT__CElementTraits_struct_HSTRING { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct XWinRT_detail_ReentrancyGuard_0 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_0374aa0a5d1201b2358c6bce99369c58 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_1403157e7ab97b63c6e002a6e76bb1ab { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_152aa9d2a3a0648fa2fa7fcef514b376 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_1ad7ecfab602a777ecf020873216a663 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_1e9b50830d16c572fee55de24845ca86 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_31ecfa77a12307d256bfb016eb774b06 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_3535a4a044406868765216e4a239d513 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_5035b992506f4af81a770c5842624510 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_5f1dd388c03885d19ee806198d2ac5ef { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_609a2dd701c6b0e014e2e4c9c6111498 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_61d67db8f544e462467cca7e2ca25af9 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_62c79cb9f4accc9ddce21c5aa9c3e6ad { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_84860341662e6237b843531fa1446eb3 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_aa194dc0bf891154933407eb98fb868a { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_af9c0611c209d8108abc0f1f3f243782 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_b70241e9b5ebaad244db3e52d52cab17 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_d51448ba32f8ef42e59400edd4566183 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_dd60928da30e2a904c9e3b2df2af345b { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_e60e7e6745a96af5116152a7517f1cec { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_e790aea0a1ab36b0097d4e74802d02c5 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct lambda_fee8cea507d2413a58be13acfb66740a { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncActionCompletedHandler__struct_Windows_Foundation_IAsyncAction__struct_Windows_Foundation_IAsyncAction____enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_class_Windows_Internal_Security_Authentication_Web_GetDefaultSignInAccountResult_____struct_Windows_Foundation_IAsyncOperation_class_Windows_Internal_Security_Authentication_Web_GetDefaultSignInAccountResult______struct_Windows_Foundation_IAsyncOperation_class_Windows_Internal_Security_Authentication_Web_GetDefaultSignInAccountResult_______enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_class_Windows_Internal_Security_Authentication_Web_HttpCookieRequestResult_____struct_Windows_Foundation_IAsyncOperation_class_Windows_Internal_Security_Authentication_Web_HttpCookieRequestResult______struct_Windows_Foundation_IAsyncOperation_class_Windows_Internal_Security_Authentication_Web_HttpCookieRequestResult_______enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_class_Windows_Security_Authentication_Web_Core_WebTokenRequestResult_____struct_Windows_Foundation_IAsyncOperation_class_Windows_Security_Authentication_Web_Core_WebTokenRequestResult______struct_Windows_Foundation_IAsyncOperation_class_Windows_Security_Authentication_Web_Core_WebTokenRequestResult_______enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_class_Windows_Security_Credentials_WebAccountProvider_____struct_Windows_Foundation_IAsyncOperation_class_Windows_Security_Credentials_WebAccountProvider______struct_Windows_Foundation_IAsyncOperation_class_Windows_Security_Credentials_WebAccountProvider_______enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_class_Windows_Security_Credentials_WebAccount_____struct_Windows_Foundation_IAsyncOperation_class_Windows_Security_Credentials_WebAccount______struct_Windows_Foundation_IAsyncOperation_class_Windows_Security_Credentials_WebAccount_______enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_class_Windows_Storage_ApplicationData_____struct_Windows_Foundation_IAsyncOperation_class_Windows_Storage_ApplicationData______struct_Windows_Foundation_IAsyncOperation_class_Windows_Storage_ApplicationData_______enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_struct_Windows_Storage_Streams_IRandomAccessStreamWithContentType_____struct_Windows_Foundation_IAsyncOperation_struct_Windows_Storage_Streams_IRandomAccessStreamWithContentType______struct_Windows_Foundation_IAsyncOperation_struct_Windows_Storage_Streams_IRandomAccessStreamWithContentType_______enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationCompletedHandler_unsigned_int___struct_Windows_Foundation_IAsyncOperation_unsigned_int____struct_Windows_Foundation_IAsyncOperation_unsigned_int_____enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationWithProgressCompletedHandler_class_Windows_Management_Deployment_DeploymentResult____struct_Windows_Management_Deployment_DeploymentProgress___struct_Windows_Foundation_IAsyncOperationWithProgress_class_Windows_Management_Deployment_DeploymentResult____struct_Windows_Management_Deployment_DeploymentProgress____struct_Windows_Foundation_IAsyncOperationWithProgress_class_Windows_Management_Deployment_DeploymentResult____struct_Windows_Management_Deployment_DeploymentProgress_____enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct long___cdecl_WaitForCompletion_struct_Windows_Foundation_IAsyncOperationWithProgressCompletedHandler_unsigned_int__unsigned_int___struct_Windows_Foundation_IAsyncOperationWithProgress_unsigned_int__unsigned_int____struct_Windows_Foundation_IAsyncOperationWithProgress_unsigned_int__unsigned_int_____enum_tagCOWAIT_FLAGS__void______2__FTMEventDelegate { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct public__static_class_getInstance_____cdecl_AggregationProviderHandler_getInstance_void____2__instance { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct type_info { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_Windows_Foundation_IUnknown { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_Windows_Internal_Security_Credentials_IWebAccountProviderInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_Windows_Internal_Security_Credentials_IWebAccountProviderInternalFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_Windows_Internal_Security_Credentials_WebAccountProviderInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_com_ptr_struct_winrt__impl__IAgileObject { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_com_ptr_struct_winrt__impl__IErrorInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_com_ptr_struct_winrt__impl__ILanguageExceptionErrorInfo2 { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_com_ptr_struct_winrt__impl__IRestrictedErrorInfo { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_com_ptr_struct_winrt__impl__abi_struct_winrt__Windows__Foundation__IActivationFactory__void___type { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_handle_type_struct_winrt__impl__bstr_traits { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_handle_type_struct_winrt__impl__heap_traits { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_handle_type_struct_winrt__impl__hstring_traits { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_access_denied { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_canceled { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_changed_state { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_class_not_available { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_class_not_registered { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_error { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_illegal_delegate_assignment { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_illegal_method_call { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_illegal_state_change { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_invalid_argument { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_no_interface { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_not_implemented { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_out_of_bounds { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_hresult_wrong_thread { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_impl { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_impl_consume_Windows_Internal_Security_Credentials_IWebAccountProviderInternalFactory_struct_winrt__Windows__Internal__Security__Credentials__IWebAccountProviderInternalFactory { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_impl_consume_Windows_Internal_Security_Credentials_IWebAccountProviderInternal_struct_winrt__Windows__Internal__Security__Credentials__IWebAccountProviderInternal { _opaque: [u8; 0] }
+
+#[repr(C)]
+pub struct winrt_impl_factory_count_guard { _opaque: [u8; 0] }
+
